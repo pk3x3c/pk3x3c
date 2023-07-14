@@ -117,6 +117,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pk3x3c/pk3x3c/output/snake.svg" alt="Snake animation" />
+##<img src="https://raw.githubusercontent.com/pk3x3c/pk3x3c/output/snake.svg" alt="Snake animation" />
 
 ###
