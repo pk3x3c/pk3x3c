@@ -82,7 +82,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sqlmap_logo.png/640px-Sqlmap_logo.png" height="40" alt="Sqlmap"  />
   
   
-  <img src="[https://w7.pngwing.com/pngs/122/347/png-transparent-jenkins-continuous-integration-continuous-delivery-ci-cd-computer-software-others-hand-logo-cartoon-thumbnail.png](https://ibb.co/CVb5TqL)" height="45"  alt="Jenkins"  />
+  <img src="https://ibb.co/CVb5TqL" height="45"  alt="Jenkins"  />
   
   
   
