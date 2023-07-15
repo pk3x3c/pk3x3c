@@ -69,7 +69,7 @@
   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS83leTqEV2GAapYSAxL4FLoXVQ44aBBw_-yXyxZB1TzS6Ct_hkjCvJnmOSbVXrl56K2Sc&usqp=CAU" height="45" width="45" alt="Metasploit"  />
   
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoPc48fN2pOSdTMluqTNPyscG1qDo7rRt83n6r8fKrycpsgPvH7XrCIWHe6QhsEF4_MY&usqp=CAU" height="45" width="45" alt="IDA"  />
+  <img src="https://github.com/pk3x3c/pk3x3c/blob/main/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476352496f50633438664e32704f5364544d6c7571544e50797363473171446f3772527438336e367238664b72796370.png" height="45" width="45" alt="IDA"  />
   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyc9NOeZXFYzQyT-8X6aF1UDwcdLEcd3YV7oo1Gb-08iisrjHHmy3XCR5H5xahxQSKf24&usqp=CAU" height="50"  alt="Autopsy"  />
  
