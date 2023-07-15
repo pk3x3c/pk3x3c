@@ -62,7 +62,7 @@
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/1024px-Wireshark_icon.svg.png" height="45" width="45" alt="Wireshark"  />
   
-  <img src="https://w7.pngwing.com/pngs/137/893/png-transparent-tor-browser-computer-security-onion-computer-software-onion-purple-food-leaf.png" height="45"  alt="Tor"  />
+  <img src="https://icon2.cleanpng.com/20180323/qcq/kisspng-tor-browser-web-browser-onion-onion-routing-onion-5ab50bd0057233.7084690515218144800223.jpg" height="45"  alt="Tor"  />
   
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXnAR82ZzXq-OEPcGp47NmimnwfZkfXyhw-nwvfz-YqG9jaz1yuIkhyIDAWRzf51VKctY&usqp=CAU" height="50"  alt="Hydra"  />
   
